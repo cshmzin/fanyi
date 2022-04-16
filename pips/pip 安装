@@ -1,0 +1,11 @@
+pip install googletrans==4.0.0rc1
+pip install pandas
+pip install streamlit
+pip install requests
+pip install streamlit-aggrid
+pip install matplotlib
+pip install ltp
+pip install numpy
+
+pip install pips/htbuilder-master.zip
+pip install pips/st-annotated-text-maxter.zip
